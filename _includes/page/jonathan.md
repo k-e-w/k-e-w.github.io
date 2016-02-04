@@ -1,13 +1,36 @@
-# h1 TEST MARKDOWN
+<img class="image--sidebar-right" src="assets/images/profile--jonathan.jpg">
 
-Lorem ipsum dolor sit amet, omnium fuisset eu pro, virtute conceptam mea ad. Nam utamur dolores accusamus ei. In meis graeco salutatus vix, habeo laoreet fuisset in his. Vim enim cibo consectetuer at. Dolore euripidis sit ex, tation offendit dissentiet per in.
+# Jonathan Eyler-Werve
 
-Viderer admodum ea usu, nulla aliquip appareat et vis. No quem vivendum imperdiet cum, et tempor possit fierent pri. Augue scripta discere id eam, in nec cibo similique abhorreant. Nam admodum voluptaria an, an duo mucius blandit. Eum iudico conclusionemque cu, vel dico lorem at.
+An engineering-focused product lead with experience in
 
-<img class="foo" src="assets/images/foundation/orbit/bullets.jpg">
+- idea-to-market product management;
+- software engineering using Ruby, JavaScript and frontend code;
+- UX, information architecture, UI design, interaction design;
+- brand identity, content strategy, copywriting.
 
-Debitis recteque honestatis in vis, congue omnium id eum. Cum saperet accumsan eu. His ei laoreet definitiones. Nisl vituperatoribus no mei.
+**15 years experience** including working to improve the public sector; building a data analytics platform; eCommerce; teaching product design; online journalism.
 
-Ut quando noluisse has, modo equidem nam ea, sit ut latine torquatos elaboraret. Te sed duis alterum. Denique reprimique efficiendi te nec, solet ornatus ius id. In usu alii facer docendi, ignota graeco euismod eu sit. Pri maiorum sensibus intellegam id.
+He is currently seeking full time employment for senior product management/strategy, located in Chicago or remote.
 
-Cu ius choro placerat pertinax, ex vim mucius vocibus facilisis. Sit ea mucius bonorum erroribus, enim reque lucilius pri ex, mei ut hinc verterem. Ut solet aliquando scriptorem ius. At sit aperiri maiestatis. Mea te consul dissentias comprehensam, vel odio clita tantas ei, tempor splendide quo id.
+
+
+## Prior Work
+
+[Polymathic](http://teampolymathic.com/) – UX lead for CareerBuilder, MeterHero, Mobcraft, The Will Group, editioned.io.
+
+[Dev Bootcamp](http://devbootcamp.com/) – Director of online product and strategy. Lead redesign team that doubled visitor-to-application conversion rate.
+
+[Moxie Jean](https://www.schoola.com/moxiejean) – Product strategy, UI & identity design, code.
+
+[The Global Integrity Report](https://www.globalintegrity.org/research/reports/global-integrity-report/) – Product owner, identity and UI designer, system architect.
+
+[ChicagoStories.org](http://chicagostories.org/) – Team lead, product owner, identity and UI designer, system architect.
+
+[Social Tech Census](https://www.socialtechcensus.org/) – Launch phase product strategy.
+
+[Open Government Partnership](http://www.opengovpartnership.org/) – Product owner, online team lead for site launch.
+
+[Foglamp](http://foglampresearch.com/) – Launch phase product strategy, online lead.
+
+[Indaba Fieldwork Platform](http://indaba.amida-tech.com/) – Team lead, product owner, identity and UI designer.
