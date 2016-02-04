@@ -1,5 +1,1 @@
-// Initializers
 $(document).foundation();
-
-
-
