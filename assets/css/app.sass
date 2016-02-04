@@ -1,0 +1,63 @@
+---
+---
+// above are required to trigger Jekyll's sass processor. Not required in sass partials.
+
+// VARIABLES
+
+$color-primary: #333333
+$color-accent: #ff0033
+$color-secondary: #999999
+$color-action: $color-accent
+$white: #ffffff
+
+// FOUNDATION OVERRIDES
+
+body
+  background-color: #eeeeee
+  color: $color-primary
+  font-family: 'Libre Baskerville', Times, serif
+  font-size: 14px
+  line-height: 28px
+
+ul
+  padding-left: 15px
+
+li
+  list-style-type: circle
+
+h1, h2, h3, h4, h5, h6
+  font-family: 'Cabin', Helvetica, Ariel, sans-serif
+
+i
+  color: $color-accent
+
+a
+  color: $color-action
+  text-decoration: none
+
+a:hover
+  text-decoration: underline
+
+// LAYOUTS
+
+// .image
+
+.image--border
+  border: 10px solid $white
+  -moz-box-shadow: 3px 3px 8px #bbb
+  -webkit-box-shadow: 3px 3px 8px #bbb
+  -ms-filter: "progid:DXImageTransform.Microsoft.Shadow(Strength=4, Direction=135, Color='#bbbbbb')"
+  filter: progid:DXImageTransform.Microsoft.Shadow(Strength=4, Direction=135, Color='#bbbbbb')
+  box-shadow: 3px 3px 8px #bbb
+
+.-polaroid
+  border-bottom-width: 40px
+
+// nav
+
+nav ul li
+  display: inline
+  padding-right: 25px
+
+nav
+  text-align: center
