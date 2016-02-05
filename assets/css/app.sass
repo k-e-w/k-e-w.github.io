@@ -5,11 +5,16 @@
 // VARIABLES
 
 $color-primary: #333333
-$color-accent: #ff0033
+$color-accent: #417F8C
 $color-secondary: #999999
 $color-action: $color-accent
-$color-white: #ffffff
-$color-gray: #999999
+$color-black: #202324
+$color-white: #FFFFFF
+$color-gray: #525A5C
+$color-accent-darkest: darken($color-accent, 35%)
+$color-gray-lightest: lighten($color-gray, 60%)
+$color-lemon: #FFFAD4
+
 
 $font-cabin: 'Cabin', Helvetica, Ariel, sans-serif
 $font-baskerville: 'Libre Baskerville', Times, serif
@@ -17,7 +22,7 @@ $font-baskerville: 'Libre Baskerville', Times, serif
 // FOUNDATION OVERRIDES
 
 body
-  background-color: #eeeeee
+  background-color: $color-gray-lightest
   color: $color-primary
   font-family: $font-baskerville
   font-size: 14px
@@ -31,6 +36,7 @@ li
 
 h1, h2, h3, h4, h5, h6
   font-family: $font-cabin
+  color: $color-accent-darkest
 
 i
   color: $color-accent
@@ -55,11 +61,11 @@ a:hover
 
 .-border
   border: 12px solid $color-white
-  -moz-box-shadow: 3px 3px 8px #bbb
-  -webkit-box-shadow: 3px 3px 8px #bbb
+  -moz-box-shadow: 3px 3px 8px $color-gray
+  -webkit-box-shadow: 3px 3px 8px $color-gray
   -ms-filter: "progid:DXImageTransform.Microsoft.Shadow(Strength=4, Direction=135, Color='#bbbbbb')"
   filter: progid:DXImageTransform.Microsoft.Shadow(Strength=4, Direction=135, Color='#bbbbbb')
-  box-shadow: 3px 3px 8px #bbb
+  box-shadow: 3px 3px 8px $color-gray
   margin-bottom: 20px
 
 .-polaroid
@@ -87,3 +93,9 @@ nav ul li
 
 nav
   text-align: center
+
+// text
+
+.text--shadow
+  // text-shadow: 1px 1px 3px $color-accent
+
