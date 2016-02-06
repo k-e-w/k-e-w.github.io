@@ -4,28 +4,28 @@
 
 // VARIABLES
 
-$color-primary: #333333
+$color-primary: #222222
 $color-accent: #417F8C
 $color-secondary: #999999
 $color-action: $color-accent
 $color-black: #202324
 $color-white: #FFFFFF
 $color-gray: #525A5C
-$color-accent-darkest: darken($color-accent, 35%)
+$color-accent-darkest: darken($color-accent, 25%)
 $color-gray-lightest: lighten($color-gray, 60%)
 $color-lemon: #FFFAD4
 
 
-$font-cabin: 'Cabin', Helvetica, Ariel, sans-serif
-$font-baskerville: 'Libre Baskerville', Times, serif
+$font-sans: 'Cabin', Helvetica, Ariel, sans-serif
+$font-serif: 'Vollkorn', Times, serif
 
 // FOUNDATION OVERRIDES
 
 body
   background-color: $color-gray-lightest
-  color: $color-primary
-  font-family: $font-baskerville
-  font-size: 14px
+  color: $color-accent-darkest
+  font-family: $font-serif
+  font-size: 18px
   line-height: 28px
 
 ul
@@ -35,7 +35,7 @@ li
   list-style-type: circle
 
 h1, h2, h3, h4, h5, h6
-  font-family: $font-cabin
+  font-family: $font-sans
   color: $color-accent-darkest
 
 i
@@ -75,7 +75,8 @@ a:hover
 // .list
 
 .list li
-  font-family: $font-cabin
+  font-family: $font-sans
+  font-size: 14px
   margin-bottom: 14px
   list-style: none
   line-height: 16px
