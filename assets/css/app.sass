@@ -2,28 +2,52 @@
 ---
 // above are required to trigger Jekyll's sass processor. Not required in sass partials.
 
+// MEDIA QUERY STUFF
+
+$medium-breakpoint: 640px !default
+$large-breakpoint: 1024px !default
+$xlarge-breakpoint: 1920px !default
+
+$screen: "only screen" !default
+
+$landscape: "#{$screen} and (orientation: landscape)" !default
+$portrait: "#{$screen} and (orientation: portrait)" !default
+
+$small-up: $screen !default
+$small-only: "#{$screen} and (max-width: #{$medium-breakpoint})" !default
+$medium-up: "#{$screen} and (min-width:#{$medium-breakpoint})" !default
+$medium-only: "#{$screen} and (min-width:#{$medium-breakpoint}) and (max-width:#{$large-breakpoint})" !default
+$large-up: "#{$screen} and (min-width:#{$large-breakpoint})" !default
+$large-only: "#{$screen} and (min-width:#{$large-breakpoint}) and (max-width:#{$xlarge-breakpoint})" !default
+
 // VARIABLES
 
-$color-primary: #222222
-$color-accent: #417F8C
-$color-secondary: #999999
-$color-action: $color-accent
 $color-black: #202324
 $color-white: #FFFFFF
 $color-gray: #525A5C
+$color-lemon: #FFFAD4
+$color-seametal: #417F8C
+$color-rash: #FF66AA
+
+$color-primary: #222222
+$color-accent: $color-rash
+$color-secondary: $color-seametal
+$color-action: $color-accent
+$color-bodytext: darken($color-seametal, 25%)
 $color-accent-darkest: darken($color-accent, 25%)
 $color-gray-lightest: lighten($color-gray, 60%)
-$color-lemon: #FFFAD4
-
 
 $font-sans: 'Cabin', Helvetica, Ariel, sans-serif
 $font-serif: 'Vollkorn', Times, serif
+
+$padding-standard: 30px
+$padding-big: 50px
 
 // FOUNDATION OVERRIDES
 
 body
   background-color: $color-gray-lightest
-  color: $color-accent-darkest
+  color: $color-bodytext
   font-family: $font-serif
   font-size: 18px
   line-height: 28px
@@ -36,7 +60,7 @@ li
 
 h1, h2, h3, h4, h5, h6
   font-family: $font-sans
-  color: $color-accent-darkest
+  color: $color-bodytext
 
 i
   color: $color-accent
@@ -49,10 +73,58 @@ a:hover
   text-decoration: underline
   color: $color-action
 
+blockquote, blockquote p
+  color: $color-secondary
+
 // LAYOUTS
 
+// wordpress fixes
+.alignright
+  float: right
+  padding-left: $padding-standard
+
+.alignleft
+  float: left
+  padding-right: $padding-standard
+
+.aligncenter
+  text-align: center
+
+// .main
+
 .main
-  padding: 50px
+  padding-top: $padding-big
+
+@media #{$small-only}
+  .main
+    padding: $padding-standard
+
+// .blog
+
+.blog
+  & h1, & h2, & h3, & h4, & h5, & h6
+    line-height: 110%
+    margin-bottom: $padding-standard
+
+  & h2
+    margin-top: $padding-big
+
+  & h3, & h4, & h5, & h6
+    margin-top: $padding-standard
+
+  & li
+    margin: #{$padding-standard / 2} 0
+
+.blog--detail
+  margin-bottom: 0px
+
+.blog--detail.-last
+  margin-bottom: $padding-standard
+
+@media #{$medium-up}
+  .blog img.size-large
+    margin-top: $padding-standard
+    margin-bottom: $padding-standard
 
 // .image
 
@@ -97,6 +169,17 @@ nav
 
 // text
 
-.text--shadow
-  // text-shadow: 1px 1px 3px $color-accent
+.text--blog-headline
+  line-height: 110%
+  margin-bottom: 30px
+
+.text--caption, .wp-caption-text
+  font-family: $font-sans
+  line-height: 120%
+  font-size: 16px
+  padding: 10px 20px
+  color: $color-secondary
+
+
+
 
