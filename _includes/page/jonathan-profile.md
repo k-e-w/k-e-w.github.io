@@ -1,10 +1,10 @@
-An engineering-focused product strategist.<br>15 years experience making the Web.
+An UX designer and product strategist. 15 years experience making the Web.
 
 - Idea-to-market product management;
 
 - Software engineering using Ruby, JavaScript and frontend code;
 
-- UX, information architecture, UI design, interaction design;
+- UX, information architecture, UI design, analytics, interaction design;
 
 - Branding, content strategy, copywriting.
 
