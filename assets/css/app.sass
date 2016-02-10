@@ -26,11 +26,12 @@ $color-black: #202324
 $color-white: #FFFFFF
 $color-gray: #525A5C
 $color-lemon: #FFFAD4
-$color-seametal: #417F8C
+$color-seametal: #004173
+$color-bluemars: #5d92b4
 $color-rash: #FF66AA
 
 $color-primary: #222222
-$color-accent: $color-rash
+$color-accent: $color-bluemars
 $color-secondary: $color-seametal
 $color-action: $color-accent
 $color-bodytext: darken($color-seametal, 25%)
@@ -42,6 +43,12 @@ $font-serif: 'Vollkorn', Times, serif
 
 $padding-standard: 30px
 $padding-big: 50px
+
+// PATHS
+
+$image-dunes: '/assets/images/background/hirise-dune-valley-optimized.jpg'
+
+$image-homepage: $image-dunes
 
 // FOUNDATION OVERRIDES
 
@@ -58,9 +65,8 @@ ul
 li
   list-style-type: circle
 
-h1, h2, h3, h4, h5, h6
+h1, h2, h3, h4, h5, h6, .button, button
   font-family: $font-sans
-  color: $color-bodytext
 
 i
   color: $color-accent
@@ -72,6 +78,11 @@ a
 a:hover
   text-decoration: underline
   color: $color-action
+
+a:hover.button
+  text-decoration: none
+  background-color: $color-white
+
 
 blockquote, blockquote p
   color: $color-secondary
@@ -125,6 +136,53 @@ blockquote, blockquote p
   .blog img.size-large
     margin-top: $padding-standard
     margin-bottom: $padding-standard
+
+// . home
+
+.home .button.hollow
+  color: $color-white
+  border-color: $color-white
+  background-color: rgba( $color-action, .7 )
+
+.home a:hover.button.hollow
+  color: $color-action
+  border-color: $color-action
+  background-color: rgba( $color-white, 1 )
+
+.home--background
+  position: fixed
+  z-index: -1000
+  width: 100%
+  height: 100%
+  top: 0
+  left: 0
+  display: block
+  background-color: $color-bodytext
+
+@media #{$medium-up}
+  .home--background
+    background: url(#{$image-homepage}) no-repeat center center fixed
+    -webkit-background-size: cover
+    -moz-background-size: cover
+    -o-background-size: cover
+    background-size: cover
+
+// .header
+
+.header
+  position: absolute
+  z-index: -1000
+  width: 100%
+  height: 100px
+  top: 0
+  left: 0
+  display: block
+  background-color: pink
+  background: url(#{$image-homepage}) no-repeat center center fixed
+  -webkit-background-size: cover
+  -moz-background-size: cover
+  -o-background-size: cover
+  background-size: cover
 
 // .image
 

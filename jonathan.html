@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Page1
+title: Jonathan Eyler-Werve
 ---
 
 <div class="row">
@@ -11,13 +11,13 @@ title: Page1
 
 <div class="row">
 
-  <div class="small-12 medium-5 columns">
+  <div class="small-12 large-5 columns">
     <section>
       {% capture item %}{% include page/jonathan-profile.md %}{% endcapture %}
       {{ item | markdownify }}
     </section>
   </div>
-  <div class="small-12 medium-3 medium-push-1 columns">
+  <div class="small-12 medium-6 large-3 large-push-1 columns">
     <section class="list">
       {% capture item %}{% include page/jonathan-work.md %}{% endcapture %}
       {{ item | markdownify }}
@@ -25,7 +25,7 @@ title: Page1
       {{ item | markdownify }}
     </section>
   </div>
-  <div class="small-12 medium-3 columns">
+  <div class="small-12 medium-6 large-3 columns">
     <section>
       <div class="image -border -polaroid show-for-medium">
         <img src="assets/images/profile--jonathan.jpg"/>
