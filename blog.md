@@ -5,6 +5,13 @@ date: 2010-07-30T03:01:19+00:00
 author: Jonathan Eyler-Werve
 layout: default
 guid: http://www.eylerwerve.com/
+
+redirect_from:
+  - /2015/
+  - /2014/
+  - /2013/
+  - /2012/
+
 ---
 
 
