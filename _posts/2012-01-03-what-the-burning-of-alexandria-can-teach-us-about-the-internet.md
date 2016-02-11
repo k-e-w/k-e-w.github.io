@@ -33,7 +33,7 @@ We don’t need Yet Another Website. We need a community of people who need to c
 
 Alexandria had a good run &#8212; some 700 years as the center of scholarship in the Western world &#8212; but it didn’t last. It was not the books that failed. It was the ideas.
 
-Cahill writes:
+Cahill writes (trigger warning):
 
 > In 415, a wild-eyed army of illiterate black-cowled monks filled the streets of Alexandria like so many crazed bats, “human only in their faces.” In a sense they were the prototype for all the mobs of religious fanatics that sweep through history. One of their number had already stoned the imperial prefect and been canonized for his deed by Cyril, Athanasius successor as patriarch. Now they encountered Hypatia, a philosopher and mathematician, on her way home from lecturing at the Mouseion. She was a pagan teacher, an unescorted woman; she did not bow to their beliefs. She lured young Christians to her lectures; she consorted with Jews; she had dared to speak against the patriarch. She practiced who-knows-what obscenities. They dragged her from her carriage and into the cathedral, where they stripped her, gouged her eyes out, skinned her alive, and tore her to pieces with jagged tiles ripped from the mosaics.
 >
@@ -55,7 +55,7 @@ It started quietly. It tipped in 1993, the “eternal September” where the onc
 
 Alexandria teaches us that these heresies will not go unopposed. And already, we see it.
 
-200 kilometers and 1,600 years away from Hypatia’s death in Alexandria, ideological mobs are still beating women who dare to speak against the patriarch. Egyptian journalist [Mona Eltahawy](http://www.monaeltahawy.com/) writes of her arrest at the hands of Egyptian security:
+200 kilometers and 1,600 years away from Hypatia’s death in Alexandria, ideological mobs are still beating women who dare to speak against the patriarch. Egyptian journalist [Mona Eltahawy](http://www.monaeltahawy.com/) writes of her arrest at the hands of Egyptian security (trigger warning):
 
 > I read news reports about a journalist whose arms were broken by Egyptian police, but I don&#8217;t connect them to the splints around my arms that allow only one-finger typing on a touchpad, nor with the titanium plate that will remain in my left arm for a year, to help a displaced fracture align and fuse.
 >

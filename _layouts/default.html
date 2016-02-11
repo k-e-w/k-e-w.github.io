@@ -11,7 +11,17 @@
     <!-- Set the viewport width to device width for mobile -->
     <meta name="viewport" content="width=device-width"/>
 
-    <title>{{ page.title }}</title>
+    {% if page.description %}
+      <meta name="description" content="{{ page.description}}" />
+    {% endif %}
+
+    <title>
+      {% if page.title %}
+        {{ page.title }}
+      {% else %}
+        Eyler-Werve
+      {% endif %}
+    </title>
 
     <!-- CSS Files -->
     <link rel="stylesheet" href="/assets/css/foundation.css">

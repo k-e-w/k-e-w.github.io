@@ -32,8 +32,8 @@ $color-rash: #FF66AA
 
 $color-primary: #222222
 $color-accent: $color-bluemars
-$color-secondary: $color-seametal
-$color-action: $color-accent
+$color-secondary: $color-gray
+$color-action: darken($color-accent, 10%)
 $color-bodytext: darken($color-seametal, 25%)
 $color-accent-darkest: darken($color-accent, 25%)
 $color-gray-lightest: lighten($color-gray, 60%)
@@ -75,14 +75,17 @@ a
   color: $color-action
   text-decoration: none
 
+a.button
+  color: $color-white
+  background-color: $color-action
+
 a:hover
   text-decoration: underline
-  color: $color-action
+  color: darken($color-action, 10%)
 
 a:hover.button
   text-decoration: none
-  background-color: $color-white
-
+  background-color: darken($color-action, 10%)
 
 blockquote, blockquote p
   color: $color-secondary
@@ -215,6 +218,24 @@ blockquote, blockquote p
 .list ul
   margin: 10px 0 30px 0
   padding: 0
+
+
+// .resume
+
+.resume
+  & h2
+    font-size: 26px
+    margin-top: $padding-big
+  & h3
+    font-size: 22px
+    margin-top: $padding-standard
+    margin-bottom: 0px
+
+  & h4
+    font-size: 16px
+    color: $color-secondary
+
+
 
 // nav
 
