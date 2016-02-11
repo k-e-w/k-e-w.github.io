@@ -1,4 +1,4 @@
-A UX designer and product strategist with 15 years experience making the Web.
+Product strategy with 15 years experience making the Web.
 
 - Idea-to-market product management;
 
@@ -10,6 +10,7 @@ A UX designer and product strategist with 15 years experience making the Web.
 
 He is currently seeking full time employment for senior product management/strategy, located in Chicago or remote.
 
+[Web resume](/jonathan/resume)<br/>
 [Printable resume (PDF)](/assets/documents/jonathan-eyler-werve-resume.pdf)
 
 ### Contact

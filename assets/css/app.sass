@@ -75,14 +75,15 @@ a
   color: $color-action
   text-decoration: none
 
+a.button
+  color: $color-white
+
 a:hover
   text-decoration: underline
   color: $color-action
 
 a:hover.button
   text-decoration: none
-  background-color: $color-white
-
 
 blockquote, blockquote p
   color: $color-secondary
@@ -215,6 +216,24 @@ blockquote, blockquote p
 .list ul
   margin: 10px 0 30px 0
   padding: 0
+
+
+// .resume
+
+.resume
+  & h2
+    font-size: 26px
+    margin-top: $padding-big
+  & h3
+    font-size: 22px
+    margin-top: $padding-standard
+    margin-bottom: 0px
+
+  & h4
+    font-size: 16px
+    color: $color-secondary
+
+
 
 // nav
 

@@ -88,15 +88,45 @@ Bachelor of Arts, Colorado College. Major: Political Science. Minor: Journalism
 
 ## WEB DESIGN AWARDS
 
-- ChicagoStories.org. Winner, Publicity Club of Chicago’s “Golden Trumpet”
-- GlobalIntegrity.org. Winner, Ashoka “Changemakers” contest.
-- The Global Integrity Report. Winner, APEX Award (Awards of Excellence 2008).
-- The Politics of Oil. for publicintegrity.org. Winner, Society of Environmental Journalists Award for Outstanding Online Reporting; Winner, Sigma Delta Chi Award for Investigative Reporting Online (Independent); Finalist, Investigative Reporters and Editors (Online).
+Moxie Jean. Product lead, engineering lead, designer.
 
+- [Red Tricycle best in category](http://www.chicagotribune.com/suburbs/arlington-heights/community/chi-ugc-article-moxie-jean-voted-best-site-for-baby-and-kids-2013-09-20-story.html)
+- Finalist, Chicago Innovation Awards 2013
+
+ChicagoStories.org. Product lead, design lead, developer.
+
+  - Winner, Publicity Club of Chicago’s “Golden Trumpet”
+
+GlobalIntegrity.org. Product lead, design lead, developer.
+
+  - Winner, Ashoka “Changemakers” contest.
+
+The Global Integrity Report. Product lead, design lead, developer.
+
+  - Winner, APEX Award (Awards of Excellence 2008).
+
+The Politics of Oil for publicintegrity.org. UI designer, developer, writer.
+
+  - Winner, Society of Environmental Journalists Award for Outstanding Online Reporting;
+  - Winner, Sigma Delta Chi Award for Investigative Reporting Online (Independent);
+  - Finalist, Investigative Reporters and Editors (Online).
 
 ## JOURNALISM & DATA VISUALIZATION AWARDS
 
-- “Internet Censorship: A Comparative Study” Winner, Every Human Has Rights Media Award. Windfalls of War, Contributing author. Winner, George Polk Award for Internet Reporting.
-- Making a Killing: The Business of War, Researcher. Winner, Sigma Delta Chi Award for Investigative Reporting Online (Independent); Finalist, ONA Online Journalism Awards, Enterprise Reporting (Independent).
-- The Water Barons, Researcher. Winner, Investigative Reporters and Editors award (Online Journalism);
-Finalist, ONA Online Journalism Awards (Enterprise Reporting).
+“Internet Censorship: A Comparative Study” Author; data visualization.
+
+  - Winner, Every Human Has Rights Media Award.
+
+Windfalls of War. Contributing Author, data visualization.
+
+  - Winner, George Polk Award for Internet Reporting.
+
+Making a Killing: The Business of War. Researcher, UI design, data visualization.
+
+  - Winner, Sigma Delta Chi Award for Investigative Reporting Online (Independent);
+  - Finalist, ONA Online Journalism Awards, Enterprise Reporting (Independent).
+
+The Water Barons. Researcher, data visualization.
+
+  - Winner, Investigative Reporters and Editors award (Online Journalism);
+  - Finalist, ONA Online Journalism Awards (Enterprise Reporting).
