@@ -1,0 +1,102 @@
+# Jonathan Eyler-Werve
+
+- jonathan@eylerwerve.com
+- [@eylerwerve](https://twitter.com/eylerwerve)
+
+Product strategy for the Web with 15 years experience. Team lead for UX, design & frontend
+engineering. Team lead building data platforms, data viz, ecommerce, and collaboration tools.
+
+
+### FOUNDER (2016)
+
+#### at Civic Workbench / civicworkbench.com
+
+Developing tools to improve online communities by mitigating abuse and harassment.
+
+### DIRECTOR OF UX (2015)
+
+#### at Polymathic / teampolymathic.com
+
+Product design, client-facing discovery, UI design and software engineering for new products.
+Projects include municipal infrastructure survey, eCommerce, content management, maps,
+platform and app marketing. Hands on with engineering in Ruby, JavaScript, Sass, Rails, Ember,
+Sinatra, Foundation, Bourbon.
+
+
+### DIRECTOR, ONLINE STRATEGY & PRODUCT (2013-2015)
+
+#### at Dev Bootcamp
+
+Lead team that redesigned all online properties used by Dev Bootcamp to attract and convert
+potential students. Conversion of visitors into applicants doubled within six months, while
+increasing traffic.
+
+
+### VP, TECHNOLOGY (2012-2013)
+
+#### at Moxie Jean (Acquired by Schola in 2015)
+
+Product lead for venture-funded e-commerce startup. Transitioned product from subscription to ecommerce
+system in two weeks; scaled to 8,000 products in store. Company raised $400,000 in
+angel funding on 25% month-over-month revenue growth over 6 months.
+
+
+### DIRECTOR, CHICAGO SUMMIT PROJECT (2012)
+
+#### at Community Media Workshop
+
+Published ChicagoStories.org, a NATO Summit reporting help desk for the City of Chicago.
+Winner of Golden Trumpet Award from the Publicity Club of Chicago.
+
+
+### DIRECTOR, TECHNOLOGY & INNOVATION (2006-2012)
+
+#### at Global Integrity
+
+Global Integrity provides original data, technology and process innovation to the global anticorruption
+movement. As first employee, contributed directly to all aspects of Global Integrity,
+particularly operations, design and technology.
+
+#### Product Owner and Team Lead, Indaba Fieldwork Platform / indaba.io
+
+Created and lead a $500,000 publishing platform for public interest organizations adopted by
+Public Radio International, the World Wide Web Foundation and others.
+
+#### Design Lead, Foglamp / foglampresearch.com
+
+Product design for a global research network selling data to Bloomberg and McKinsey.
+
+
+### FOUNDER (2005-2007)
+
+#### at Sparks Custom Publishing
+
+Managed a distributed editorial team of 10 as on-demand capacity for non-profit organizations.
+
+
+### GRAPHICS EDITOR (2002-2004)
+
+#### at The Center for Public Integrity
+
+Award winning data visualization and data-heavy investigative reporting.
+
+
+## EDUCATION
+
+Bachelor of Arts, Colorado College. Major: Political Science. Minor: Journalism
+
+
+## WEB DESIGN AWARDS
+
+- ChicagoStories.org. Winner, Publicity Club of Chicago’s “Golden Trumpet”
+- GlobalIntegrity.org. Winner, Ashoka “Changemakers” contest.
+- The Global Integrity Report. Winner, APEX Award (Awards of Excellence 2008).
+- The Politics of Oil. for publicintegrity.org. Winner, Society of Environmental Journalists Award for Outstanding Online Reporting; Winner, Sigma Delta Chi Award for Investigative Reporting Online (Independent); Finalist, Investigative Reporters and Editors (Online).
+
+
+## JOURNALISM & DATA VISUALIZATION AWARDS
+
+- “Internet Censorship: A Comparative Study” Winner, Every Human Has Rights Media Award. Windfalls of War, Contributing author. Winner, George Polk Award for Internet Reporting.
+- Making a Killing: The Business of War, Researcher. Winner, Sigma Delta Chi Award for Investigative Reporting Online (Independent); Finalist, ONA Online Journalism Awards, Enterprise Reporting (Independent).
+- The Water Barons, Researcher. Winner, Investigative Reporters and Editors award (Online Journalism);
+Finalist, ONA Online Journalism Awards (Enterprise Reporting).

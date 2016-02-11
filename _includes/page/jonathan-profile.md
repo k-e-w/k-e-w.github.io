@@ -10,6 +10,8 @@ A UX designer and product strategist with 15 years experience making the Web.
 
 He is currently seeking full time employment for senior product management/strategy, located in Chicago or remote.
 
+[Printable resume (PDF)](/assets/documents/jonathan-eyler-werve-resume.pdf)
+
 ### Contact
 
 Email: jonathan@eylerwerve.com
