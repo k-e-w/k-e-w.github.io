@@ -32,8 +32,8 @@ $color-rash: #FF66AA
 
 $color-primary: #222222
 $color-accent: $color-bluemars
-$color-secondary: $color-seametal
-$color-action: $color-accent
+$color-secondary: $color-gray
+$color-action: darken($color-accent, 10%)
 $color-bodytext: darken($color-seametal, 25%)
 $color-accent-darkest: darken($color-accent, 25%)
 $color-gray-lightest: lighten($color-gray, 60%)
@@ -77,13 +77,15 @@ a
 
 a.button
   color: $color-white
+  background-color: $color-action
 
 a:hover
   text-decoration: underline
-  color: $color-action
+  color: darken($color-action, 10%)
 
 a:hover.button
   text-decoration: none
+  background-color: darken($color-action, 10%)
 
 blockquote, blockquote p
   color: $color-secondary
