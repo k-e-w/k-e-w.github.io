@@ -1,4 +1,4 @@
-An UX designer and product strategist. 15 years experience making the Web.
+A UX designer and product strategist with 15 years experience making the Web.
 
 - Idea-to-market product management;
 
