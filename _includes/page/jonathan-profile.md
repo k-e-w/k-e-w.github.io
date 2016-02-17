@@ -19,5 +19,6 @@ He is currently seeking full time employment for senior product management/strat
 
 Email: jonathan@eylerwerve.com<br/>
 Twitter: [@eylerwerve](https://twitter.com/EylerWerve)<br/>
-LinkedIn: [/eylerwerve](https://www.linkedin.com/in/eylerwerve)
-
+LinkedIn: [/eylerwerve](https://www.linkedin.com/in/eylerwerve)<br/>
+Github: [/jonathan-eyler-werve](https://github.com/Jonathan-Eyler-Werve)<br/>
+Keybase: [/eylerwerve](https://keybase.io/eylerwerve)<br/>
