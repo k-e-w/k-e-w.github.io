@@ -3,7 +3,7 @@
 - jonathan@eylerwerve.com
 - [@eylerwerve](https://twitter.com/eylerwerve)
 
-Product strategy for the Web with 15 years experience. Team lead for UX, design & frontend
+Product design and software development with 15 years experience. Team lead for UX, design & frontend
 engineering. Team lead building data platforms, data viz, ecommerce, and collaboration tools.
 
 
@@ -11,7 +11,7 @@ engineering. Team lead building data platforms, data viz, ecommerce, and collabo
 
 #### at Civic Workbench / civicworkbench.com
 
-Developing tools to improve online communities by mitigating abuse and harassment.
+Developing tools to improve online communities by mitigating abuse and harassment. Launched [Floodgate for Chrome](http://civicworkbench.com/), a browser extension that mutes abusive content.
 
 ### DIRECTOR OF UX (2015)
 
