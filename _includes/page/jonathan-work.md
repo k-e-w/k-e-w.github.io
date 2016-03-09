@@ -1,6 +1,6 @@
 ### Work
 
-- [Filter Scout](http://civicworkbench.com/filterscout)
+- [Civic Workbench](http://civicworkbench.com)
 - [Polymathic](http://teampolymathic.com/)
 - [Dev Bootcamp](http://devbootcamp.com/)
 - [Moxie Jean](https://www.schoola.com/moxiejean)
