@@ -6,13 +6,13 @@ Product design and software development with 15 years experience. Team lead for 
 engineering. Team lead building data platforms, data viz, ecommerce, and collaboration tools.
 
 
-### FOUNDER (2016)
+### JAVASCRIPT DEVELOPER (2016)
 
 #### at Civic Workbench / civicworkbench.com
 
 Developing tools to improve online communities by mitigating abuse and harassment. Launched [Floodgate for Chrome](http://civicworkbench.com/), a browser extension that mutes abusive content.
 
-### DIRECTOR OF UX (2015)
+### DIRECTOR OF UX / WEB DEVELOPER (2015)
 
 #### at Polymathic / teampolymathic.com
 
@@ -22,7 +22,7 @@ platform and app marketing. Hands on with engineering in Ruby, JavaScript, Sass,
 Sinatra, Foundation, Bourbon.
 
 
-### DIRECTOR, ONLINE STRATEGY & PRODUCT (2013-2015)
+### DIRECTOR, ONLINE STRATEGY & PRODUCT / WEB DEVELOPER (2013-2015)
 
 #### at Dev Bootcamp
 
@@ -31,7 +31,7 @@ potential students. Conversion of visitors into applicants doubled within six mo
 increasing traffic.
 
 
-### VP, TECHNOLOGY (2012-2013)
+### VP, TECHNOLOGY / WEB DEVELOPER (2012-2013)
 
 #### at Moxie Jean (Acquired by Schola in 2015)
 
@@ -40,7 +40,7 @@ system in two weeks; scaled to 8,000 products in store. Company raised $400,000 
 angel funding on 25% month-over-month revenue growth over 6 months.
 
 
-### DIRECTOR, CHICAGO SUMMIT PROJECT (2012)
+### DIRECTOR, CHICAGO SUMMIT PROJECT / WEB DEVELOPER (2012)
 
 #### at Community Media Workshop
 
@@ -48,7 +48,7 @@ Published ChicagoStories.org, a NATO Summit reporting help desk for the City of 
 Winner of Golden Trumpet Award from the Publicity Club of Chicago.
 
 
-### DIRECTOR, TECHNOLOGY & INNOVATION (2006-2012)
+### DIRECTOR, TECHNOLOGY & INNOVATION / WEB DEVELOPER (2006-2012)
 
 #### at Global Integrity
 
