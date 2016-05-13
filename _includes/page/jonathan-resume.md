@@ -1,4 +1,3 @@
-# Jonathan Eyler-Werve
 
 - jonathan@eylerwerve.com
 - [@eylerwerve](https://twitter.com/eylerwerve)
