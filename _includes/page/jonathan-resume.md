@@ -22,7 +22,7 @@ platform and app marketing. Hands on with engineering in Ruby, JavaScript, Sass,
 Sinatra, Foundation, Bourbon.
 
 
-### DIRECTOR, ONLINE STRATEGY & PRODUCT / WEB DEVELOPER (2013-2015)
+### DIRECTOR, ONLINE STRATEGY & PRODUCT / INSTRUCTOR (2013-2015)
 
 #### at Dev Bootcamp
 
@@ -30,6 +30,7 @@ Lead team that redesigned all online properties used by Dev Bootcamp to attract 
 potential students. Conversion of visitors into applicants doubled within six months, while
 increasing traffic.
 
+Taught Ruby on Rails, JavaScript and product design for the Web. Curiculum lead for [Engineering Empathy](http://bluesky.chicagotribune.com/originals/chi-dev-bootcamp-engineering-empathy-bsi-20140701,0,0.story).
 
 ### VP, TECHNOLOGY / WEB DEVELOPER (2012-2013)
 
