@@ -6,13 +6,13 @@ Product design and software development with 15 years experience. Team lead for 
 engineering. Team lead building data platforms, data viz, ecommerce, and collaboration tools.
 
 
-### JAVASCRIPT DEVELOPER (2016)
+### FOUNDER / JAVASCRIPT DEVELOPER (2016)
 
 #### at Civic Workbench / civicworkbench.com
 
 Developing tools to improve online communities by mitigating abuse and harassment. Launched [Floodgate for Chrome](http://civicworkbench.com/), a browser extension that mutes abusive content.
 
-### DIRECTOR OF UX / WEB DEVELOPER (2015)
+### DIRECTOR OF UX (2015)
 
 #### at Polymathic / teampolymathic.com
 
@@ -20,7 +20,6 @@ Product design, client-facing discovery, UI design and software engineering for 
 Projects include municipal infrastructure survey, eCommerce, content management, maps,
 platform and app marketing. Hands on with engineering in Ruby, JavaScript, Sass, Rails, Ember,
 Sinatra, Foundation, Bourbon.
-
 
 ### DIRECTOR, ONLINE STRATEGY & PRODUCT / INSTRUCTOR (2013-2015)
 
@@ -32,7 +31,7 @@ increasing traffic.
 
 Taught Ruby on Rails, JavaScript and product design for the Web. Curiculum lead for [Engineering Empathy](http://bluesky.chicagotribune.com/originals/chi-dev-bootcamp-engineering-empathy-bsi-20140701,0,0.story).
 
-### VP, TECHNOLOGY / WEB DEVELOPER (2012-2013)
+### VP, TECHNOLOGY / WEB DEVELOPER & UX DESIGNER (2012-2013)
 
 #### at Moxie Jean (Acquired by Schola in 2015)
 
@@ -40,16 +39,14 @@ Product lead for venture-funded e-commerce startup. Transitioned product from su
 system in two weeks; scaled to 8,000 products in store. Company raised $400,000 in
 angel funding on 25% month-over-month revenue growth over 6 months.
 
-
-### DIRECTOR, CHICAGO SUMMIT PROJECT / WEB DEVELOPER (2012)
+### DIRECTOR, CHICAGO SUMMIT PROJECT / WEB DEVELOPER & UX DESIGNER (2012)
 
 #### at Community Media Workshop
 
 Published ChicagoStories.org, a NATO Summit reporting help desk for the City of Chicago.
 Winner of Golden Trumpet Award from the Publicity Club of Chicago.
 
-
-### DIRECTOR, TECHNOLOGY & INNOVATION / WEB DEVELOPER (2006-2012)
+### DIRECTOR, TECHNOLOGY & INNOVATION / WEB DEVELOPER & UX DESIGNER (2006-2012)
 
 #### at Global Integrity
 
@@ -67,14 +64,14 @@ Public Radio International, the World Wide Web Foundation and others.
 Product design for a global research network selling data to Bloomberg and McKinsey.
 
 
-### FOUNDER (2005-2007)
+### FOUNDER / WEB DEVELOPER & UX DESIGNER (2005-2007)
 
 #### at Sparks Custom Publishing
 
 Managed a distributed editorial team of 10 as on-demand capacity for non-profit organizations.
 
 
-### GRAPHICS EDITOR (2002-2004)
+### GRAPHICS EDITOR / WEB DEVELOPER & UX DESIGNER (2002-2004)
 
 #### at The Center for Public Integrity
 
