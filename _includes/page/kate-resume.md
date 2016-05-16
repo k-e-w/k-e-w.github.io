@@ -2,26 +2,28 @@
 - kate@eylerwerve.com
 - [@innokate](https://twitter.com/innokate)
 
-Digital Account Manager with focus on strategic planning, client needs assessment and implementation. Clients include Walmart, Anthem, Chicago Community Trust, Coyote Logistics, and Smart Power Illinois.
+Digital Project Manager with focus on stakeholder management, product definition, and cross-team collaboration. Clients include Walmart USA, Walmart Canada, Anthem, Chicago Community Trust, Coyote Logistics, and Smart Power Illinois.
 
 ### Mightybytes (2013-2016)
 
 #### mightybytes.com
 
-Mightybytes is a digital firm that creates gorgeous, effective websites and software for organizations that make the world a better place.
+Mightybytes is a digital firm that creates gorgeous, effective websites and software. As a B Corp, Mightybytes serves organizations that make the world a better place. 
 
 CEO, 2015-2016
 
 - Implemented a new business development workflow that landed $1.25 million in business. As a result, 2015 was the company's highest annual revenue in its 18-year history.
-- Instituted "component based UX" system for designing and developing websites.
+- Instituted "component based UX" system for designing and developing websites. This approach enabled our clients to iterate their websites with their existing communications staff, rather than forcing them to rely on their IT teams.
 - Developed agile-style project management process to better manage scope creep, which dramatically increased our ability to bill for time worked.
-- Hired 5 staff; fired 1 poor performer.
+- Managed a 14 person team, including performance evaluation, hiring and firing.
 - Won four awards for excellence in web design for client work.
 
 Project Manager, 2013-2015
 
-- Managed 6- to 12-month web design projects for clients including YMCA of the USA, Coyote Logistics, Dharma Merchant Services, and the Illinois Green Economy Network.
-- Grew accounts by $450,000 across six projects.
+- Managed web design and software build projects for multiple clients including YMCA of the USA, Coyote Logistics, Dharma Merchant Services, the Illinois Green Economy Network and Feeding America.
+- Collaborated with clients and production team to define project requirements, features and user experience. Created project briefs, user flows, user story documentation, timelines, budgets and reports
+- Grew accounts by $480,000 across seven projects.
+- Developed digital strategy metrics model to connect client business goals, audience goals, content and KPIs. Model now used in all project work and featured in book co-authored with company founder: Return on Engagement.
 
 ### Technology Consultant (2010-2013)
 
@@ -34,7 +36,7 @@ systems with the optimal mix of low costs, local support and functionality.
 #### Project Manager, Metro Chicago Information Center
 
 Planned and implemented the launch of the Apps for Metro Chicago competition with Mayor
-Emanuel and Governor Quinn’s offices.
+Emanuel and Governor Quinn’s offices. Co-wrote O'Reilly Media book on civic apps competitions.
 
 ### Senior Strategist, Saatchi & Saatchi (2007-2010)
 
@@ -76,6 +78,7 @@ about catching terrorists.
 - Led seven multi-week backpacking and sea kayaking trips for at-risk teens.
 
 ## Speaking
+- Kellogg School of Business - B Corp Panel
 - DePaul University guest lecturer, Writing Digital Content. Course text: Return on Engagement.
 - Content Jam 2014 - Integrating Content Strategy and User Experience
 - Content Jam 2013 - Making Sense of Performance Metrics
