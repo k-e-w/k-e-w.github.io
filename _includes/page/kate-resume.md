@@ -13,7 +13,7 @@ Mightybytes is a digital firm that creates gorgeous, effective websites and soft
 CEO, 2015-2016
 
 - Implemented a new business development workflow that landed $1.25 million in business. As a result, 2015 was the company's highest annual revenue in its 18-year history.
-- Instituted "component based UX" system for designing and developing websites. This approach enabled our clients to iterate their websites with their existing communications staff, rather than forcing them to rely on their IT teams.
+- Instituted "component based UX" system for designing and developing websites. This approach enabled our clients to iterate their websites with their non-technical communications staff, rather than forcing them to rely on their IT teams.
 - Developed agile-style project management process to better manage scope creep, which dramatically increased our ability to bill for time worked.
 - Managed a 14 person team, including performance evaluation, hiring and firing.
 - Won four awards for excellence in web design for client work.
@@ -21,7 +21,7 @@ CEO, 2015-2016
 Project Manager, 2013-2015
 
 - Managed web design and software build projects for multiple clients including YMCA of the USA, Coyote Logistics, Dharma Merchant Services, the Illinois Green Economy Network and Feeding America.
-- Collaborated with clients and production team to define project requirements, features and user experience. Created project briefs, user flows, user story documentation, timelines, budgets and reports
+- Collaborated with clients and production team to define project requirements. Created product backlogs, user flows, prototypes, timelines, budgets and reports
 - Grew accounts by $480,000 across seven projects.
 - Developed digital strategy metrics model to connect client business goals, audience goals, content and KPIs. Model now used in all project work and featured in book co-authored with company founder: Return on Engagement.
 
