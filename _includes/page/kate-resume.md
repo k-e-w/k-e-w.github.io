@@ -2,13 +2,17 @@
 - kate@eylerwerve.com
 - [@innokate](https://twitter.com/innokate)
 
-Digital Project Manager with focus on stakeholder management, product definition, and cross-team collaboration. Clients include Walmart USA, Walmart Canada, Anthem, Chicago Community Trust, Coyote Logistics, and Smart Power Illinois.
+Digital Implemention Manager with focus on stakeholder management, product definition, and cross-team collaboration. Clients include Walmart USA, Walmart Canada, Anthem, Chicago Community Trust, Coyote Logistics, and Smart Power Illinois.
 
 ### Mightybytes (2013-2016)
 
 #### mightybytes.com
 
 Mightybytes is a digital firm that creates gorgeous, effective websites and software. As a B Corp, Mightybytes serves organizations that make the world a better place. 
+
+Senior Strategy Consultant, 2016 - present
+- Ensuring a smooth transition for the Mightybytes founder as he steps back into the role of managing day-to-day operations.
+-	Designing and facilitating project kick-off working sessions with the goal of clearly defining project goals and establishing stakeholder buy-in.
 
 CEO, 2015-2016
 
