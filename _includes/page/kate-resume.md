@@ -11,6 +11,7 @@ Kate is a senior account manager in digital and technical products who has coord
 Mightybytes is a digital firm that creates gorgeous, effective websites and software. As a B Corp, Mightybytes serves organizations that make the world a better place. 
 
 COO, 2015-2016
+
 - Tactical management of all client accounts, including identifying needs, architecting solutions, and overseeing implementation.
 - Defined scope, requirements, budgets and timelines for all project work. 
 - Implemented a new business development workflow that landed $1.25 million in business. As a result, 2015 was the company's highest annual revenue in its 18-year history.
