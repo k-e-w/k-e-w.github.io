@@ -4,6 +4,12 @@
 Product design and software development with 15 years experience. Team lead for UX, design & frontend
 engineering. Team lead building data platforms, data viz, eCommerce, and collaboration tools.
 
+### SENIOR UX DESIGNER (2016)
+
+#### at Sprout Social / sproutsocial.com (2016)
+
+Enabling many-to-many communication for organizations via social media. Contributing to UX and product design. 
+
 ### FOUNDER / PRODUCT DESIGNER (2016)
 
 #### at Civic Workbench / civicworkbench.com
@@ -65,7 +71,7 @@ Public Radio International, the World Wide Web Foundation and others.
 Product design for a global research network selling data to Bloomberg and McKinsey.
 
 
-### FOUNDER / WEB DEVELOPER & UX DESIGNER (2005-2007)
+### FOUNDER (2005-2007)
 
 #### at Sparks Custom Publishing
 
