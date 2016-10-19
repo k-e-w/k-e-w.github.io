@@ -45,9 +45,9 @@ Turkey (rosemary/sage/butter brine) - Jonathan E-W
 
 _Vegetarian main_
 
-_Mashed potatoes_
+Mashed potatoes by Jennie
 
-_Sweet potatoes_
+Sweet potatoes by Arlo
 
 _Stuffing with meat_
 
@@ -61,11 +61,13 @@ Turkey gravy - Jonathan E-W
 
 _Pies, ya'll_
 
+Apple Pie by Kara
+
 _Crumbles, crisps, etc_
 
 _Something with rhubarb_
 
-_Historical pre-Revolution cocktail_
+Historical pre-Revolution cocktail (Stone Fences) by Arlo
 
 _Various alcoholic beverages_
 
