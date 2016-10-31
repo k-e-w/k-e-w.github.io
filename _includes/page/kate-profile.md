@@ -1,4 +1,4 @@
-Kate is the CEO of [Mightybytes](http://www.mightybytes.com), a digital firm.
+Kate is a Senior Digital Strategist specializing in UX.
 
 - Twitter: [@innokate](https://twitter.com/innokate)
 - LinkedIn: [kateeylerwerve](https://www.linkedin.com/in/kateeylerwerve)
