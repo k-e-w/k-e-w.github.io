@@ -43,11 +43,13 @@ Claim items in italics with [the RSVP form](https://docs.google.com/forms/d/e/1F
 
 Turkey (rosemary/sage/butter brine) - Jonathan E-W
 
-_Vegetarian main_
+Vegan casserole by Katherine
 
 Mashed potatoes by Jennie
 
 Sweet potatoes by Arlo
+
+Something with mushrooms because that's how he rolls by Davo
 
 _Stuffing with meat_
 
