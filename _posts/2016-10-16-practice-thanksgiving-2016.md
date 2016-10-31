@@ -63,7 +63,7 @@ _Pies, ya'll_
 
 Apple Pie by Kara
 
-_Crumbles, crisps, etc_
+This crazy plum pie that tastes awesome and weird by Kate
 
 _Something with rhubarb_
 
