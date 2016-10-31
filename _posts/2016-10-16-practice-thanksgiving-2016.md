@@ -75,7 +75,7 @@ _Something with rhubarb_
 
 Historical pre-Revolution cocktail (Stone Fences) by Arlo
 
-_Various alcoholic beverages_
+Some kind of alcohol (here's hoping for Turkey flavored Jello shots) by Steve
 
 _Various non-alcoholic beverages_
 
