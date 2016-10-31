@@ -55,7 +55,11 @@ _Stuffing with meat_
 
 _Stuffing without meat_
 
-_Green vegetable_
+_Rolls_
+
+_Green bean casserole_
+
+Salad (or something green) by Sarah
 
 A twist on cranberry sauce by Stephanie
 
