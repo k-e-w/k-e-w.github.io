@@ -77,7 +77,7 @@ Historical pre-Revolution cocktail (Stone Fences) by Arlo
 
 Some kind of alcohol (here's hoping for Turkey flavored Jello shots) by Steve
 
-_Various non-alcoholic beverages_
+Various non-alcoholic beverages by Wayne etc
 
 [RSVP here](https://docs.google.com/forms/d/e/1FAIpQLScoUtB5cdmg33csEVRG7c7WBX4dkaSqCCNyUFDRDpKKAIRtaQ/viewform)
 
