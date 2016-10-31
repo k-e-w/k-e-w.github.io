@@ -55,7 +55,7 @@ _Stuffing without meat_
 
 _Green vegetable_
 
-_cranberries_
+A twist on cranberry sauce by Stephanie
 
 Turkey gravy - Jonathan E-W
 
