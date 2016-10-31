@@ -2,7 +2,7 @@
 - kate@eylerwerve.com
 - [@innokate](https://twitter.com/innokate)
 
-Kate is a senior account manager in digital and technical products who has coordinated between clients and production teams to deliver over $3M in project work.  Clients include Walmart, Anthem, Chicago Community Trust, Coyote Logistics, and Smart Power Illinois.
+Kate is a senior digital strategist specializing in UX and sales. She has coordinated client and production teams to deliver over $3M in project work.  Clients include Walmart, Anthem, Chicago Community Trust, Coyote Logistics, and Smart Power Illinois.
 
 ### Mightybytes (2013-2016)
 
