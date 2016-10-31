@@ -27,7 +27,7 @@ Your friends, family and kids are welcome to join us.
 
 ## Details
 
-Sunday afternoon, November 13th, 2015
+Sunday afternoon, November 13th, 2016
 
 Starts at 2pm, Dinner served 4pm sharp.
 
