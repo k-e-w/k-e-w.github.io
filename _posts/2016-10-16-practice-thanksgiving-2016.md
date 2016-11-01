@@ -51,31 +51,41 @@ Sweet potatoes by Arlo
 
 Something with mushrooms because that's how he rolls by Davo
 
+Queso Fundido (w/ a fat stack of tortillas) by Eric B
+
 _Stuffing with meat_
 
 _Stuffing without meat_
 
-Rolls by Amber
+Rolls, yo by Amber V.
 
 _Green bean casserole_
 
-Salad (or something green) by Sarah
+Green Beans and Tomato Salad by Sarah L
 
 A twist on cranberry sauce by Stephanie
 
 Turkey gravy - Jonathan E-W
 
-_Pies, ya'll_
-
 Apple Pie by Kara
 
 This crazy plum pie that tastes awesome and weird by Kate
 
-_Something with rhubarb_
+Dirt Cake by Kaitlen E.
+
+Pumpkin Pie by Leanne R.
+
+Dessert of some kind by Joe H.
+
+Ginger molasses cookies or an almond cranberry pie by Samantha 
 
 Historical pre-Revolution cocktail (Stone Fences) by Arlo
 
 Some kind of alcohol (here's hoping for Turkey flavored Jello shots) by Steve
+
+Wine by Joe H.
+
+Red wines by Nancy G.
 
 Various non-alcoholic beverages by Wayne etc
 
