@@ -53,7 +53,7 @@ Something with mushrooms because that's how he rolls by Davo
 
 Queso Fundido (w/ a fat stack of tortillas) by Eric B
 
-_Stuffing with meat_
+Stuffing with oysters and stuffing with sausage by Ed, Janet, Sarah and Zach
 
 Stuffing without meat by Qyuen
 
