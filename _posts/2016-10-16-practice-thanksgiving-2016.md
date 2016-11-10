@@ -45,7 +45,7 @@ Turkey (rosemary/sage/butter brine) - Jonathan E-W
 
 Vegan casserole by Katherine
 
-Mashed potatoes by Jennie
+_Mashed potatoes_ 
 
 Sweet potatoes by Arlo
 
@@ -55,7 +55,7 @@ Queso Fundido (w/ a fat stack of tortillas) by Eric B
 
 _Stuffing with meat_
 
-_Stuffing without meat_
+Stuffing without meat by Qyuen
 
 Rolls, yo by Amber V.
 
