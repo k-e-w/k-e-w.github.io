@@ -59,7 +59,7 @@ Stuffing without meat by Qyuen
 
 Rolls, yo by Amber V.
 
-_Green bean casserole_
+Green bean casseroles: both traditional and fancy by Ariel and Lizzy
 
 Green Beans and Tomato Salad by Sarah L
 
