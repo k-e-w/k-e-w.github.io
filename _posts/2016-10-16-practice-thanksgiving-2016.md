@@ -45,7 +45,7 @@ Turkey (rosemary/sage/butter brine) - Jonathan E-W
 
 Vegan casserole by Katherine
 
-_Mashed potatoes_ 
+Mashed potatoes by Rich
 
 Sweet potatoes by Arlo
 
@@ -59,7 +59,9 @@ Stuffing without meat by Qyuen
 
 Rolls, yo by Amber V.
 
-Green bean casseroles: both traditional and fancy by Ariel and Lizzy
+Challah by Ariel 
+
+Green bean casserole by Lizzy
 
 Green Beans and Tomato Salad by Sarah L
 
@@ -69,7 +71,7 @@ Turkey gravy - Jonathan E-W
 
 Apple Pie by Kara
 
-This crazy plum pie that tastes awesome and weird by Kate
+This crazy peach pie that tastes awesome and weird by Kate
 
 Dirt Cake by Kaitlen E.
 
@@ -80,6 +82,8 @@ Apple Pie, Gluten Free by Eric B.
 Dessert of some kind by Joe H.
 
 Ginger molasses cookies or an almond cranberry pie by Samantha 
+
+Bourbon pecan pie by Claire
 
 Historical pre-Revolution cocktail (Stone Fences) by Arlo
 
