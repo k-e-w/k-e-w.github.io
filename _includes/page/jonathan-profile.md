@@ -1,4 +1,4 @@
-Product design and software development with 15 years experience making the Web. Currently happily employed at Sprout Social as a Senior UX Designer. 
+Product design and software development with 17 years experience making the Web. Currently: Product Design Director at Sprout Social. 
 
 - Idea-to-market product design and management;
 
