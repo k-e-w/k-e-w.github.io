@@ -1,12 +1,16 @@
-
 - jonathan@eylerwerve.com
 - [@eylerwerve](https://twitter.com/eylerwerve)
 
 Product design and software development with 15 years experience. Team lead for UX, design & frontend
-engineering. Team lead building data platforms, data viz, ecommerce, and collaboration tools.
+engineering. Team lead building data platforms, data viz, eCommerce, and collaboration tools.
 
+### SENIOR UX DESIGNER (2016)
 
-### FOUNDER / JAVASCRIPT DEVELOPER (2016)
+#### at Sprout Social / sproutsocial.com (2016)
+
+Enabling many-to-many communication for organizations via social media. Contributing to UX and product design. 
+
+### FOUNDER / PRODUCT DESIGNER (2016)
 
 #### at Civic Workbench / civicworkbench.com
 
@@ -21,38 +25,41 @@ Projects include municipal infrastructure survey, eCommerce, content management,
 platform and app marketing. Hands on with engineering in Ruby, JavaScript, Sass, Rails, Ember,
 Sinatra, Foundation, Bourbon.
 
-### DIRECTOR, ONLINE STRATEGY & PRODUCT / INSTRUCTOR (2013-2015)
+### DIRECTOR, ONLINE STRATEGY & PRODUCT (2013-2015)
 
 #### at Dev Bootcamp
+
+Dev Bootcamp is a trade school launching careers in software, with seven campuses across the US.
 
 Lead team that redesigned all online properties used by Dev Bootcamp to attract and convert
 potential students. Conversion of visitors into applicants doubled within six months, while
 increasing traffic.
 
-Taught Ruby on Rails, JavaScript and product design for the Web. Curiculum lead for [Engineering Empathy](http://bluesky.chicagotribune.com/originals/chi-dev-bootcamp-engineering-empathy-bsi-20140701,0,0.story).
+Taught Ruby on Rails, JavaScript and product design for the Web. Curriculum lead for [Engineering Empathy](http://bluesky.chicagotribune.com/originals/chi-dev-bootcamp-engineering-empathy-bsi-20140701,0,0.story).
 
-### VP, TECHNOLOGY / WEB DEVELOPER & UX DESIGNER (2012-2013)
+### VP, TECHNOLOGY / PRODUCT DESIGNER (2012-2013)
 
 #### at Moxie Jean (Acquired by Schola in 2015)
 
-Product lead for venture-funded e-commerce startup. Transitioned product from subscription to ecommerce
+Product lead for venture-funded e-commerce startup. Transitioned product from subscription to eCommerce
 system in two weeks; scaled to 8,000 products in store. Company raised $400,000 in
 angel funding on 25% month-over-month revenue growth over 6 months.
 
-### DIRECTOR, CHICAGO SUMMIT PROJECT / WEB DEVELOPER & UX DESIGNER (2012)
+### DIRECTOR, CHICAGO SUMMIT PROJECT (2012)
 
 #### at Community Media Workshop
 
 Published ChicagoStories.org, a NATO Summit reporting help desk for the City of Chicago.
 Winner of Golden Trumpet Award from the Publicity Club of Chicago.
 
-### DIRECTOR, TECHNOLOGY & INNOVATION / WEB DEVELOPER & UX DESIGNER (2006-2012)
+### DIRECTOR, TECHNOLOGY & INNOVATION (2006-2012)
 
 #### at Global Integrity
 
-Global Integrity provides original data, technology and process innovation to the global anticorruption
-movement. As first employee, contributed directly to all aspects of Global Integrity,
+Global Integrity provides original data, technology and process innovation to international NGOs and government reformers. As first employee, contributed directly to all aspects of Global Integrity,
 particularly operations, design and technology.
+
+Lead workshops and network-weaving events in 10 countries, building communities of practice around Web technologies for social change.
 
 #### Product Owner and Team Lead, Indaba Fieldwork Platform / indaba.io
 
@@ -64,14 +71,14 @@ Public Radio International, the World Wide Web Foundation and others.
 Product design for a global research network selling data to Bloomberg and McKinsey.
 
 
-### FOUNDER / WEB DEVELOPER & UX DESIGNER (2005-2007)
+### FOUNDER (2005-2007)
 
 #### at Sparks Custom Publishing
 
 Managed a distributed editorial team of 10 as on-demand capacity for non-profit organizations.
 
 
-### GRAPHICS EDITOR / WEB DEVELOPER & UX DESIGNER (2002-2004)
+### GRAPHICS EDITOR / PRODUCT DESIGNER (2002-2004)
 
 #### at The Center for Public Integrity
 

@@ -1,4 +1,4 @@
-Product design and software development with 15 years experience making the Web.
+Product design and software development with 17 years experience making the Web. Currently, Product Design Director at Sprout Social. 
 
 - Idea-to-market product design and management;
 
@@ -7,8 +7,6 @@ Product design and software development with 15 years experience making the Web.
 - UX, information architecture, UI design, analytics, interaction design;
 
 - Branding, content strategy, copywriting.
-
-He is currently seeking full time employment in product and software roles, located in Chicago or remote.
 
 <a class="button" href="http://bit.ly/via-eylerwerve">Portfolio</a>
 <a class="button" href="/jonathan/resume">Resume</a>
