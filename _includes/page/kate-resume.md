@@ -2,7 +2,15 @@
 - kate@eylerwerve.com
 - [@innokate](https://twitter.com/innokate)
 
-Digital Project Manager with focus on stakeholder management, product definition, and cross-team collaboration. Clients include Walmart USA, Walmart Canada, Anthem, Chicago Community Trust, Coyote Logistics, and Smart Power Illinois.
+Kate is a senior digital strategist specializing in UX and sales. She has coordinated client and production teams to deliver over $5.5M in project work. Clients include Walmart, Anthem, Chicago Community Trust, Coyote Logistics, and Smart Power Illinois.
+
+### Palantir.net (2017 - present)
+#### palantir.net
+
+Palantir.net is a digital firm that specializes in architecting enterprise websites and user-driven design. 
+
+Solution Architect
+- Bridge the sales and production teams to design solutions that meet our client’s needs and ensure that our team delivers.
 
 ### Mightybytes (2013-2016)
 
@@ -69,6 +77,7 @@ Crittercam. Press releases, maintaining press contact lists, coordinating talent
 
 ## Training & Facilitation
 
+- Taught 2 multi-week UX courses for Designation, a Chicago UX bootcamp.
 - Facilitated eight-week internal digital strategy training for management team at Abelson Taylor.
 - Facilitated internal engagement training sessions for more than 2,500 Walmart employees and 100
 attorneys and staff with Alston+Bird.
