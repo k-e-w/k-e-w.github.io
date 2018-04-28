@@ -2,16 +2,7 @@
 - kate@eylerwerve.com
 - [@innokate](https://twitter.com/innokate)
 
-Kate is a senior digital strategist specializing in UX and sales. She has coordinated client and production teams to deliver over $5.5M in project work. Clients include Walmart, Anthem, Chicago Community Trust, Coyote Logistics, and Smart Power Illinois.
 
-### Palantir.net (2017 - present)
-
-#### palantir.net
-
-Palantir.net is a digital firm that specializes in architecting enterprise websites and user-driven design.
-
-Solution Architect
-- Bridge the sales and production teams to design solutions that meet our client’s needs and ensure that our team delivers.
 
 ### Mightybytes (2013-2016)
 
