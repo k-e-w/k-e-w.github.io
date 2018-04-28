@@ -7,7 +7,7 @@ Kate is a senior digital strategist specializing in UX and sales. She has coordi
 ### Palantir.net (2017 - present)
 #### palantir.net
 
-Palantir.net is a digital firm that specializes in architecting enterprise websites and user-driven design. 
+Palantir.net is a digital firm that specializes in architecting enterprise websites and user-driven design.
 
 Solution Architect
 - Bridge the sales and production teams to design solutions that meet our client’s needs and ensure that our team delivers.
@@ -16,12 +16,12 @@ Solution Architect
 
 #### mightybytes.com
 
-Mightybytes is a digital firm that creates gorgeous, effective websites and software. As a B Corp, Mightybytes serves organizations that make the world a better place. 
+Mightybytes is a digital firm that creates gorgeous, effective websites and software. As a B Corp, Mightybytes serves organizations that make the world a better place.
 
 COO, 2015-2016
 
 - Tactical management of all client accounts, including identifying needs, architecting solutions, and overseeing implementation.
-- Defined scope, requirements, budgets and timelines for all project work. 
+- Defined scope, requirements, budgets and timelines for all project work.
 - Implemented a new business development workflow that landed $1.25 million in business. As a result, 2015 was the company's highest annual revenue in its 18-year history.
 - Developed agile-style project management process to better manage scope creep, which dramatically increased our ability to bill for time worked.
 - Managed a 14 person team, including performance evaluation, hiring and firing.
