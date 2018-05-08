@@ -1,0 +1,42 @@
+---
+layout: default
+title: Jonathan Eyler-Werve
+permalink: /jonathan/
+---
+
+<div class="row">
+  <div class="small-12 columns text--shadow">
+    <h1>Jonathan Eyler-Werve</h1>
+  </div>
+</div>
+
+<div class="row">
+
+  <div class="small-12 large-5 columns">
+    <section>
+      {% capture item %}{% include page/jonathan-profile.md %}{% endcapture %}
+      {{ item | markdownify }}
+    </section>
+  </div>
+  <div class="small-12 medium-6 large-3 large-push-1 columns">
+    <section class="list">
+      {% capture item %}{% include page/jonathan-work.md %}{% endcapture %}
+      {{ item | markdownify }}
+      {% capture item %}{% include page/jonathan-artifacts.md %}{% endcapture %}
+      {{ item | markdownify }}
+    </section>
+  </div>
+  <div class="small-12 medium-6 large-3 columns">
+    <section>
+      <div class="image -border -polaroid show-for-medium">
+        <img src="/assets/images/profile--jonathan.jpg"/>
+      </div>
+      <div class="list">
+        {% capture item %}{% include page/jonathan-writing.md %}{% endcapture %}
+        {{ item | markdownify }}
+      </div>
+    </section>
+  </div>
+</div>
+
+

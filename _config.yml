@@ -1,0 +1,14 @@
+# Site settings
+url: http://www.eylerwerve.com
+name: Eyler-Werve
+description: Technology + Design + Innovation
+baseurl: "" # the subpath of your site, e.g. /blog/
+twitter_username: eylerwerve
+github_username:  jonathan-eyler-werve
+
+# Build settings
+markdown: kramdown
+
+gems:
+  - github-pages
+  - jekyll-redirect-from
