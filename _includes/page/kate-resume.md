@@ -2,36 +2,35 @@
 - kate@eylerwerve.com
 - [@innokate](https://twitter.com/innokate)
 
-
+Digital Project Manager with focus on stakeholder management, product definition, and cross-team collaboration. Clients include Walmart USA, Walmart Canada, Anthem, Chicago Community Trust, Coyote Logistics, and Smart Power Illinois.
 
 ### Mightybytes (2013-2016)
 
 #### mightybytes.com
 
-Mightybytes is a digital firm that creates gorgeous, effective websites and software. As a B Corp, Mightybytes serves organizations that make the world a better place.
+Mightybytes is a digital firm that creates gorgeous, effective websites and software. As a B Corp, Mightybytes serves organizations that make the world a better place. 
 
-COO, 2015-2016
+CEO, 2015-2016
 
-- Tactical management of all client accounts, including identifying needs, architecting solutions, and overseeing implementation.
-- Defined scope, requirements, budgets and timelines for all project work.
 - Implemented a new business development workflow that landed $1.25 million in business. As a result, 2015 was the company's highest annual revenue in its 18-year history.
+- Instituted "component based UX" system for designing and developing websites. This approach enabled our clients to iterate their websites with their existing communications staff, rather than forcing them to rely on their IT teams.
 - Developed agile-style project management process to better manage scope creep, which dramatically increased our ability to bill for time worked.
 - Managed a 14 person team, including performance evaluation, hiring and firing.
 - Won four awards for excellence in web design for client work.
 
-Senior Project Manager, 2013-2015
+Project Manager, 2013-2015
 
 - Managed web design and software build projects for multiple clients including YMCA of the USA, Coyote Logistics, Dharma Merchant Services, the Illinois Green Economy Network and Feeding America.
-- Collaborated with clients and production team to define project requirements. Created product backlogs, user flows, prototypes, timelines, budgets and reports
+- Collaborated with clients and production team to define project requirements, features and user experience. Created project briefs, user flows, user story documentation, timelines, budgets and reports
 - Grew accounts by $480,000 across seven projects.
 - Developed digital strategy metrics model to connect client business goals, audience goals, content and KPIs. Model now used in all project work and featured in book co-authored with company founder: Return on Engagement.
 
-### Technology Project Manager (2010-2013)
+### Technology Consultant (2010-2013)
 
 #### CRM Strategy, Twaweza (multinational development aid organization)
 
 Conducted needs assessment of Customer Relationship Management software functions required
-to coordinate grant-making across offices in Dar es Salaam, Nairobi and Kampala. Developed specifications, identified CRM
+to coordinate grant-making across offices in Dar es Salaam, Nairobi and Kampala. Identified CRM
 systems with the optimal mix of low costs, local support and functionality.
 
 #### Project Manager, Metro Chicago Information Center
@@ -39,7 +38,7 @@ systems with the optimal mix of low costs, local support and functionality.
 Planned and implemented the launch of the Apps for Metro Chicago competition with Mayor
 Emanuel and Governor Quinn’s offices. Co-wrote O'Reilly Media book on civic apps competitions.
 
-### Senior Client Lead, Saatchi & Saatchi (2007-2010)
+### Senior Strategist, Saatchi & Saatchi (2007-2010)
 
 #### saatchi.com
 
@@ -70,7 +69,6 @@ Crittercam. Press releases, maintaining press contact lists, coordinating talent
 
 ## Training & Facilitation
 
-- Taught 2 multi-week UX courses for Designation, a Chicago UX bootcamp.
 - Facilitated eight-week internal digital strategy training for management team at Abelson Taylor.
 - Facilitated internal engagement training sessions for more than 2,500 Walmart employees and 100
 attorneys and staff with Alston+Bird.
