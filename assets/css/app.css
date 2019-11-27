@@ -1,0 +1,180 @@
+body {
+  background-color: #eff1f1;
+  color: black;
+  font-family: "Vollkorn", Times, serif;
+  font-size: 18px;
+  line-height: 28px; }
+
+ul {
+  padding-left: 15px; }
+
+li {
+  list-style-type: circle; }
+
+h1, h2, h3, h4, h5, h6, .button, button {
+  font-family: "Cabin", Helvetica, Ariel, sans-serif; }
+
+i {
+  color: #5d92b4; }
+
+a {
+  color: #467898;
+  text-decoration: none; }
+
+a.button {
+  color: #FFFFFF;
+  background-color: #467898; }
+
+a:hover {
+  text-decoration: underline;
+  color: #365c75; }
+
+a:hover.button {
+  text-decoration: none;
+  background-color: #365c75; }
+
+blockquote, blockquote p {
+  color: #525A5C; }
+
+.alignright {
+  float: right;
+  padding-left: 30px; }
+
+.alignleft {
+  float: left;
+  padding-right: 30px; }
+
+.aligncenter {
+  text-align: center; }
+
+.main {
+  padding: 30px; }
+
+@media only screen and (min-width: 1024px) {
+  .main {
+    padding: 50px 0 0 0; } }
+.blog h1, .blog h2, .blog h3, .blog h4, .blog h5, .blog h6 {
+  line-height: 110%;
+  margin-bottom: 30px; }
+.blog h2 {
+  margin-top: 50px; }
+.blog h3, .blog h4, .blog h5, .blog h6 {
+  margin-top: 30px; }
+.blog li {
+  margin: 15px 0; }
+
+.blog--detail {
+  margin-bottom: 0px; }
+
+.blog--detail.-last {
+  margin-bottom: 30px; }
+
+@media only screen and (min-width: 640px) {
+  .blog img.size-large {
+    margin-top: 30px;
+    margin-bottom: 30px; } }
+.home .button.hollow {
+  color: #FFFFFF;
+  border-color: #FFFFFF;
+  background-color: rgba(70, 120, 152, 0.7); }
+
+.home a:hover.button.hollow {
+  color: #467898;
+  border-color: #467898;
+  background-color: white; }
+
+.home--background {
+  position: fixed;
+  z-index: -1000;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  display: block;
+  background-color: black; }
+
+@media only screen and (min-width: 640px) {
+  .home--background {
+    background: url(/assets/images/background/hirise-dune-valley-optimized.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover; } }
+.header {
+  position: absolute;
+  z-index: -1000;
+  width: 100%;
+  height: 100px;
+  top: 0;
+  left: 0;
+  display: block;
+  background-color: pink;
+  background: url(/assets/images/background/hirise-dune-valley-optimized.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover; }
+
+.image img {
+  border: 1px solid #525A5C; }
+
+.-border {
+  border: 12px solid #FFFFFF;
+  -moz-box-shadow: 3px 3px 8px #525A5C;
+  -webkit-box-shadow: 3px 3px 8px #525A5C;
+  -ms-filter: "progid:DXImageTransform.Microsoft.Shadow(Strength=4, Direction=135, Color='#bbbbbb')";
+  filter: progid:DXImageTransform.Microsoft.Shadow(Strength=4, Direction=135, Color='#bbbbbb');
+  box-shadow: 3px 3px 8px #525A5C;
+  margin-bottom: 20px; }
+
+.-polaroid {
+  border-bottom-width: 40px;
+  margin-bottom: 40px; }
+
+.list li {
+  font-family: "Cabin", Helvetica, Ariel, sans-serif;
+  font-size: 14px;
+  margin-bottom: 14px;
+  list-style: none;
+  line-height: 16px; }
+
+.list ul {
+  margin: 10px 0 30px 0;
+  padding: 0; }
+
+.resume h2 {
+  font-size: 26px;
+  margin-top: 50px; }
+.resume h3 {
+  font-size: 22px;
+  margin-top: 30px;
+  margin-bottom: 0px; }
+.resume h4 {
+  font-size: 16px;
+  color: #525A5C; }
+
+@media only screen and (max-width: 640px) {
+  .resume h1 {
+    font-size: 36px; } }
+.resume__nav {
+  text-align: left; }
+  .resume__nav .button {
+    margin-top: 12px; }
+
+nav ul li {
+  display: inline;
+  padding-right: 25px; }
+
+nav {
+  text-align: center; }
+
+.text--blog-headline {
+  line-height: 110%;
+  margin-bottom: 30px; }
+
+.text--caption, .wp-caption-text {
+  font-family: "Cabin", Helvetica, Ariel, sans-serif;
+  line-height: 120%;
+  font-size: 16px;
+  padding: 10px 20px;
+  color: #525A5C; }
