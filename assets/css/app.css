@@ -23,7 +23,8 @@ a {
 
 a.button {
   color: #FFFFFF;
-  background-color: #467898; }
+  background-color: #467898;
+  border-radius: 0px; }
 
 a:hover {
   text-decoration: underline;
@@ -73,15 +74,55 @@ blockquote, blockquote p {
   .blog img.size-large {
     margin-top: 30px;
     margin-bottom: 30px; } }
+.home h1 {
+  color: white;
+  font-family: "Overpass Mono", monospace; }
+
+.home h3 {
+  color: rgba(0, 255, 0, 0.8);
+  font-family: "Overpass Mono", monospace; }
+
+@media only screen and (min-width: 640px) and (max-width: 1024px) {
+  .home h1 {
+    font-size: 2.2rem; }
+
+  .home h3 {
+    font-size: 1.6rem; } }
+.home a.button {
+  font-family: "Overpass Mono", monospace;
+  font-weight: 600;
+  transition: background-color 1s ease-out, color 0.25s ease-out, border-color 0.5s ease-out; }
+
 .home .button.hollow {
-  color: #FFFFFF;
-  border-color: #FFFFFF;
-  background-color: rgba(70, 120, 152, 0.7); }
+  color: rgba(0, 255, 0, 0.9);
+  border-color: rgba(0, 255, 0, 0.2);
+  background-color: rgba(0, 255, 0, 0.05);
+  text-align: left;
+  white-space: nowrap;
+  overflow: hidden;
+  padding-left: 5px; }
 
 .home a:hover.button.hollow {
-  color: #467898;
-  border-color: #467898;
-  background-color: white; }
+  color: #00FF00;
+  border-color: #00FF00;
+  background-color: rgba(0, 26, 17, 0.9); }
+
+.home a.button.hollow:before {
+  content: ">> ";
+  color: rgba(0, 255, 0, 0.05);
+  transition: color 0.5s ease-out; }
+
+.home a.button.hollow:after {
+  content: "  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>";
+  color: rgba(0, 255, 0, 0.05);
+  text-overflow: nowrap;
+  transition: color 0.5s ease-out; }
+
+.home a:hover.button.hollow:before {
+  color: rgba(0, 255, 0, 0.4); }
+
+.home a:hover.button.hollow:after {
+  color: rgba(0, 255, 0, 0.4); }
 
 .home--background {
   position: fixed;
@@ -93,6 +134,37 @@ blockquote, blockquote p {
   display: block;
   background-color: black; }
 
+.homeprimary {
+  position: fixed;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  left: 0;
+  background-color: rgba(0, 26, 17, 0.8);
+  padding: 80px; }
+
+@media only screen and (max-width: 640px) {
+  .homeprimary {
+    padding: 60px 20px; } }
+@media only screen and (min-width: 1024px) {
+  .homeprimary {
+    height: 50%; } }
+.homeprimary--main {
+  padding-bottom: 50px; }
+
+.homesecondary {
+  display: none;
+  position: fixed;
+  height: 50%;
+  width: 100%;
+  top: 50%;
+  left: 0;
+  background-color: rgba(0, 26, 17, 0.95);
+  padding: 50px; }
+
+@media only screen and (min-width: 1024px) {
+  .homesecondary {
+    display: block; } }
 @media only screen and (min-width: 640px) {
   .home--background {
     background: url(/assets/images/background/hirise-dune-valley-optimized.jpg) no-repeat center center fixed;
