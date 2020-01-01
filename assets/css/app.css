@@ -91,7 +91,8 @@ blockquote, blockquote p {
 .home a.button {
   font-family: "Overpass Mono", monospace;
   font-weight: 600;
-  transition: background-color 1s ease-out, color 0.25s ease-out, border-color 0.5s ease-out; }
+  transition: background-color 1s ease-out, color 0.25s ease-out, border-color 0.5s ease-out;
+  max-width: 420px; }
 
 .home .button.hollow {
   color: rgba(0, 255, 0, 0.9);
@@ -134,8 +135,8 @@ blockquote, blockquote p {
   display: block;
   background-color: black; }
 
-.homeprimary {
-  position: fixed;
+.home--background__1 {
+  position: relative;
   height: 100%;
   width: 100%;
   top: 0;
@@ -144,15 +145,12 @@ blockquote, blockquote p {
   padding: 80px; }
 
 @media only screen and (max-width: 640px) {
-  .homeprimary {
+  .home--background__1 {
     padding: 60px 20px; } }
 @media only screen and (min-width: 1024px) {
-  .homeprimary {
+  .home--background__1 {
     height: 50%; } }
-.homeprimary--main {
-  padding-bottom: 50px; }
-
-.homesecondary {
+.home--background__2 {
   display: none;
   position: fixed;
   height: 50%;
@@ -163,8 +161,14 @@ blockquote, blockquote p {
   padding: 50px; }
 
 @media only screen and (min-width: 1024px) {
-  .homesecondary {
+  .home--background__2 {
     display: block; } }
+.homeprimary--main {
+  padding-bottom: 50px; }
+
+@media only screen and (min-width: 1024px) and (max-width: 1300px) {
+  .homeprimary--main {
+    padding-left: 50px; } }
 @media only screen and (min-width: 640px) {
   .home--background {
     background: url(/assets/images/background/hirise-dune-valley-optimized.jpg) no-repeat center center fixed;
