@@ -8,11 +8,21 @@ body {
 ul {
   padding-left: 15px; }
 
+ul._minimal {
+  padding-left: 0px;
+  margin-left: 0px; }
+
 li {
   list-style-type: circle; }
 
+ul._minimal li {
+  list-style-type: none; }
+
 h1, h2, h3, h4, h5, h6, .button, button {
   font-family: "Cabin", Helvetica, Ariel, sans-serif; }
+
+h3 {
+  line-height: 36px; }
 
 i {
   color: #5d92b4; }
@@ -36,6 +46,17 @@ a:hover.button {
 
 blockquote, blockquote p {
   color: #525A5C; }
+
+.card {
+  border: 1px solid #eff1f1;
+  padding: 30px;
+  background-color: #FFFFFF;
+  border-radius: 5px; }
+
+a.card {
+  color: black;
+  text-decoration: none;
+  cursor: pointer; }
 
 .alignright {
   float: right;
@@ -74,6 +95,37 @@ blockquote, blockquote p {
   .blog img.size-large {
     margin-top: 30px;
     margin-bottom: 30px; } }
+.talk {
+  display: flex;
+  flex-direction: row; }
+
+.talk__meta {
+  display: flex;
+  flex-direction: column;
+  padding: 0 30px; }
+
+.talk__leadimage {
+  display: none;
+  max-width: 500px;
+  max-height: 300px; }
+
+@media only screen and (min-width: 1024px) {
+  .talk__leadimage {
+    display: block; } }
+.talk__title {
+  display: inline-block;
+  margin-bottom: 20px; }
+
+.talk__embed {
+  min-height: 200px;
+  width: 100%; }
+
+.talk-list {
+  margin-top: 50px; }
+
+.talk-list ul {
+  margin-top: 50px; }
+
 .home h1 {
   color: white;
   font-family: "Overpass Mono", monospace; }
@@ -146,7 +198,7 @@ blockquote, blockquote p {
 
 @media only screen and (max-width: 640px) {
   .home--background__1 {
-    padding: 60px 20px; } }
+    padding: 50px 30px; } }
 @media only screen and (min-width: 1024px) {
   .home--background__1 {
     height: 50%; } }
