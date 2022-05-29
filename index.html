@@ -1,132 +1,201 @@
-<!DOCTYPE html>
+<html>
+<head>
+  <title>Unicorns are better than not unicorns</title>
 
-<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
-<!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
-<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
-<!--[if gt IE 8]><!-->
-<html class="no-js" lang="en"> <!--<![endif]-->
-  <head>
-    <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <script src="library/jquery-2.1.0.js" type="text/javascript"></script>
+  <script src="library/tinycolor.js" type="text/javascript"></script>
+  <script src="library/imagePath.js" type="text/javascript"></script>
+  <script src="creeps.js" type="text/javascript"></script>
+  <script src="towers.js" type="text/javascript"></script>
+  <script src="splatters.js" type="text/javascript"></script>
 
-    <!-- Set the viewport width to device width for mobile -->
-    <meta name="viewport" content="width=device-width"/>
+  <script type="application/javascript">
 
-    
+    window.game = window.game || {};
+    var g = window.game;
+    console.log(window.game);
 
-    <title>
-      
-        eylerwerve.com
-      
-    </title>
+    g.dead = false;
+    g.gameLoopCounter = 0;
+    g.frameRate = 30; // frames per second
+    g.cycleTime = (1000 / g.frameRate);
+    g.canvasEdgeX = $(window).width(); // sync this with HTML below
+    g.canvasEdgeY = $(window).height(); // sync this with HTML below
+    g.killCycle = 10000000; // for debugging, game loop shuts off after number of cycles
+    g.seedColor = '#99ff33';
 
-    <!-- CSS Files -->
-    <link rel="stylesheet" href="/assets/css/foundation.css">
-    <link rel="stylesheet" href="/assets/css/app.css">
+    $( document ).ready(function() {
+      g.canvas = document.getElementById("canvas");
+      g.overlay = document.getElementById("overlay");
+      setSizes();
+      g.ctx = canvas.getContext("2d");
+      g.overlayCtx = overlay.getContext("2d");
+      // wizard();
+      loop();
+    });
 
-    <!-- Font Files -->
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
-    <link href='https://fonts.googleapis.com/css?family=Cabin:400,700' rel='stylesheet' type='text/css'>
-    <link href='https://fonts.googleapis.com/css?family=Vollkorn:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
-    <link href='https://fonts.googleapis.com/css?family=Libre+Baskerville:400,400italic,700' rel='stylesheet' type='text/css'>
-    <link href="https://fonts.googleapis.com/css?family=Overpass+Mono:400,600&display=swap" rel="stylesheet">
+    $( window ).resize(function() {
+      setSizes();
+    });
 
-    <!-- JS Files -->
-    <script src="/assets/js/vendor/jquery.min.js"></script>
-    <script src="/assets/js/foundation.min.js"></script>
+    function setSizes(){
+      g.canvasEdgeX = $(window).width();
+      g.canvasEdgeY = $(window).height();
+      g.canvas.width = g.canvasEdgeX;
+      g.canvas.height = g.canvasEdgeY;
+      g.overlay.width = g.canvasEdgeX;
+      g.overlay.height = g.canvasEdgeY;
+    };
 
-    <!-- Initialize JS Plugins -->
-    <script src="/assets/js/app.js"></script>
+    function loop(){
+      setInterval(function(){
+        // if (g.gameLoopCounter > killCycle){
+        //   dead = true;
+        // };
 
-    <!-- IE Fix for HTML5 Tags -->
-    <!--[if lt IE 9]>
-      <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]-->
-  </head>
 
-  <body>
-    <div class="row">
-      <div class="small-12 columns centered">
-        <div class="main">
+        if (g.dead === false) {
+          g.gameLoopCounter += 1;
 
-          <div id="wrapper"><!-- Main page content -->
+          updateRandomFactors(g.creeps);
+          updateRandomFactors(g.towers);
+          updateCreeps();
+          updateTowers();
+          draw();
 
-            <div class="home">
+          if (g.gameLoopCounter % 1000 == 1) {
+            mutateSeedColor();
+            console.log("mutating colors!")
+          };
 
-  <div class="home--background">
-    <div class="home--background__1 homeprimary"></div>
-    <div class="home--background__2 homesecondary"></div>
-  </div>
-  <div class="homewrapper">
+        };
+      },g.cycleTime);
+    };
 
-    <div class="homeprimary">
-      <div class="row">
-        <div class="large-9 columns">
-          <div class="homeprimary--main">
-            <h3>Hello, world. My name is</h3>
-            <h1>Jonathan Eyler-Werve</h1>
-            <h3>I build digital products,<br> and I lead software teams.</h3>
-          </div>
-        </div>
-        <div class="large-3 columns">
-          <div class="homeprimary--sidebar">
-            <a class="button hollow expanded" href="/jonathan">Work</a>
-            <a class="button hollow expanded" href="/blog">Writing</a>
-            <a class="button hollow expanded" href="/talks">Talks</a>
-            <a class="button hollow expanded" href="/jonathan/#contact">Contact</a>
-          </div>
-        </div>
-      </div>
-    </div>
-    <div class="homesecondary">
+    function draw(){
 
-      <div class="row">
+      if (canvas.getContext) {
+        g.ctx.clearRect (0, 0, g.canvasEdgeX, g.canvasEdgeY)
+        g.ctx.fillStyle = "rgba(0, 255, 0, 1)";
+        drawAllCreeps(g.ctx);
+        drawAllTowers(g.ctx);
 
-        
-        
-        
-        
+        // if (g.gameLoopCounter % 200 == 1) {
+        //   drawLogo(g.overlayCtx);
+        //   console.log("drawLogo runs")
+        // };
 
-        <div class="large-6 columns">
-            <a class="talk" href="/talks/2019-06-29--full-stack.html">
-              <img src="/assets/images/content--talk-fullstack-humanity.png" class="talk--leadimage">
-            </a>
-        </div>
-        <div class="large-6 columns">
-            <a href="/talks/2019-06-29--full-stack.html" class="talk--meta">
-              <p class="talk--date caption">
-                <span class="_gray">SOME OLD STUFF</span> </p>
-              <h4 class="talk--title">Full stack humanity - How technology copes (or doesn't) with complexity</h4>
-              <p class="talk--description caption">When we talk about 'full stack' in software, we talk about the invisible systems that determine our experience. What happens when we apply that lens to human concepts like identity? The social sciences are useful tools for understanding these 'backend' systems. How might social science inform (and improve!) the software we build?</p>
-            </a>
-        </div>
+      }
+      else {
+        window.alert("You're too good looking to use a browser this old.");
+      }
+    }
 
-        
-        
+    function mutateSeedColor() {
+      var colors = ['coral', 'red', 'pink', 'blue', '00ff33', '00FFCC', 'ff00ff', 'yellow', 'ff3300', 'purple', 'indigo'];
+      var number = to_i(Math.random() * colors.length);
+      console.log(number);
+      console.log(colors[number]);
+      seedColor = colors[number];
+    };
 
-      </div>
-    </div>
+    function updateRandomFactors(collection){
 
-  </div>
-</div>
+        if (g.gameLoopCounter%30 == 1){ // SHORT random factor generator
+        // console.log("%30")
+        for (var i = 0; i < collection.length; i++) {
+          if (collection[i] != undefined) {
+            collection[i].randomShort = to_i(((Math.random() * 10) + 1));
+            // console.log(collection[i].randomLong)
+          };
+        };
+      };
 
-          </div><!-- /wrapper -->
+      if (g.gameLoopCounter%100 == 1){  // MEDIUM random factor generator
+        // console.log("%100")
+        for (var i = 0; i < collection.length; i++) {
+          if (collection[i] != undefined) {
+            collection[i].randomMedium = to_i(((Math.random() * 10) + 1));
+            // console.log(collection[i].randomMedium)
+          };
+        };
+      };
 
-        </div><!-- /main -->
-      </div>
-    </div>
+      if (g.gameLoopCounter%1000 == 1){ // LONG random factor generator
+        // console.log("%1000")
+        for (var i = 0; i < collection.length; i++) {
+          if (collection[i] != undefined) {
+            collection[i].randomLong = to_i(((Math.random() * 10) + 1));
+            // console.log(collection[i].randomLong)
+          };
+        };
+      };
+    };
 
-    <!-- Google Tag Manager -->
-    <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-WBW66W"
-    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-    '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-    })(window,document,'script','dataLayer','GTM-WBW66W');</script>
-    <!-- End Google Tag Manager -->
 
-  </body>
+    function countCollection(collection){
+      var _count = 0;
+      for (var i = 0; i < collection.length; i++) {
+        if (collection[i] != undefined) {
+          _count++;
+        };
+      };
+      return _count
+    };
 
+
+
+    function toInteger(value)  {
+      // uses Bitwise operator to convert value to int. Allegedly faster than Math methods.
+      return value | 0
+    };
+
+    function toRadians(degrees){
+      return degrees * (Math.PI / 180)
+    };
+
+    function toDegrees(rad){
+      return rad / (Math.PI / 180)
+    };
+
+  </script>
+
+  <script>
+    // tests!
+    console.log("tests working = " + (1 == 1));
+    console.log("Math.sin(0) = " + (Math.sin(0) == 0));
+    console.log("Math.sin(to_rad(90)) = 1 " + (Math.sin(to_rad(90)) == 1));
+    console.log("Math.sin(to_rad(270)) = -1 " + (Math.sin(to_rad(270)) == -1));
+    console.log("Degrees to radians = " + (to_rad(180) == Math.PI));
+    console.log("Creeps = " + countCollection(g.creeps));
+    console.log("Towers = " + countCollection(g.towers));
+    var test = [1, 2, 3, undefined, 4]
+    console.log("countColletion : " + (countCollection(test) == 4));
+
+  </script>
+
+  <style type="text/css">
+
+    body {
+      padding: 0;
+      margin: 0;
+    }
+
+    canvas {
+      border: 1px solid green;
+      background: none;
+      z-index: 0;
+      position: fixed;
+    }
+
+  </style>
+
+</head>
+
+<body style="background-color: #000">
+
+  <canvas id="overlay" width="1400" height="800"></canvas>
+  <canvas id="canvas" width="1400" height="800"></canvas>
+
+</body>
 </html>
-
-
